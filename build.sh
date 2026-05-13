@@ -4,4 +4,4 @@ set -xe
 CC=cc
 CFLAGS="-Wall -Wextra"
 
-$CC $CFLAGS -o gitcurl main.c -l curl
+$CC $CFLAGS -o graw main.c -l curl
